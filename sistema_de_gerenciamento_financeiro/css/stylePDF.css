@@ -1,0 +1,21 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fafafa;
+    color: #000000;
+}
+img{
+    width: 150px; 
+    height: 150px;
+}
+
